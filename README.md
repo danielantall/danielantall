@@ -17,7 +17,7 @@ dantal2 [at] uwo [dot] com
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,cpp,c,python,java,go,html,css,react,nextjs,nodejs,express,fastapi,spring,tensorflow,aws,azure,docker,jenkins,jest,supabase,postman,grafana,rabbitmq&perline=9)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,cpp,c,python,java,go,html,css,react,nextjs,nodejs,express,fastapi,spring,tensorflow,aws,azure,docker,jenkins,jest,supabase,postman,grafana,rabbitmq,php,qt&perline=9)](https://skillicons.dev)
 
 </div>
 
