@@ -9,13 +9,3 @@ Heres what im currently working on:
 Feel free to reach out:
 dantal2 [at] uwo [dot] com
 
----
-
-## 🔧 Tech Stack
-
-<div align="center">
-
-[![Skills](https://skillicons.dev/icons?i=ts,js,cpp,c,python,java,go,html,css,react,nextjs,nodejs,express,fastapi,spring,tensorflow,aws,azure,docker,jenkins,jest,supabase,postman,grafana,rabbitmq,php,qt&perline=9)](https://skillicons.dev)
-
-</div>
-
